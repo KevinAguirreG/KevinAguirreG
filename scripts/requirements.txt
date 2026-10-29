@@ -1,0 +1,6 @@
+-r requirements-ci.txt
+# portrait-only (run locally when the photo changes):
+pillow
+numpy
+opencv-python
+rembg[cpu]

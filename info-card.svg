@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="649" viewBox="0 0 490 649">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.l{opacity:0;animation:in .4s ease-out forwards}
+</style>
+<rect width="490" height="649" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h470a10 10 0 0 1 10 10v20H0z" fill="#161b22"/>
+<circle cx="18" cy="15" r="5.5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5.5" fill="#ffbd2e"/>
+<circle cx="54" cy="15" r="5.5" fill="#27c93f"/>
+<text x="245.0" y="19" text-anchor="middle" font-size="12" fill="#6e7681">~/neofetch</text>
+<g class="l" style="animation-delay:0.25s"><text x="22" y="58" fill="#39d353" font-weight="bold">kevin@github</text></g>
+<g class="l" style="animation-delay:0.34s"><text x="22" y="72" fill="#6e7681">────────────────────────────────────────────</text></g>
+<g class="l" style="animation-delay:0.43s"><text x="22" y="93"><tspan fill="#39d353" font-weight="bold">OS</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">Monterrey, MX · ES · EN (C1) · FR</tspan></text></g>
+<g class="l" style="animation-delay:0.52s"><text x="22" y="114"><tspan fill="#39d353" font-weight="bold">Role</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">Full-Stack Developer · Laravel/PHP</tspan></text></g>
+<g class="l" style="animation-delay:0.61s"><text x="22" y="135"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">Didaktron · makerSTEAM LMS (20+ schools)</tspan></text></g>
+<g class="l" style="animation-delay:0.70s"><text x="22" y="156"><tspan fill="#39d353" font-weight="bold">Prev</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">ValoraCredit · Copixl · Freelance</tspan></text></g>
+<g class="l" style="animation-delay:0.79s"><text x="22" y="177"><tspan fill="#39d353" font-weight="bold">Edu</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">B.Eng. Software Dev · TecMilenio &#x27;26</tspan></text></g>
+<g class="l" style="animation-delay:0.88s"><text x="22" y="198"><tspan fill="#39d353" font-weight="bold">Abroad</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">Exchange · VIVES University, BE</tspan></text></g>
+<g class="l" style="animation-delay:0.97s"><text x="22" y="240" fill="#58a6ff">── stack ─────────────────────────────────</text></g>
+<g class="l" style="animation-delay:1.06s"><text x="22" y="261"><tspan fill="#39d353" font-weight="bold">Backend</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">Laravel · Filament · Livewire · Node</tspan></text></g>
+<g class="l" style="animation-delay:1.15s"><text x="22" y="282"><tspan fill="#39d353" font-weight="bold">Frontend</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">JavaScript · jQuery · Blade</tspan></text></g>
+<g class="l" style="animation-delay:1.24s"><text x="22" y="303"><tspan fill="#39d353" font-weight="bold">Data</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">MySQL · Redis · MongoDB · Python</tspan></text></g>
+<g class="l" style="animation-delay:1.33s"><text x="22" y="324"><tspan fill="#39d353" font-weight="bold">Cloud</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">AWS · EC2 S3 RDS CloudFront IAM</tspan></text></g>
+<g class="l" style="animation-delay:1.42s"><text x="22" y="345"><tspan fill="#39d353" font-weight="bold">DevOps</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">Docker · Terraform · Ansible · GH Actions</tspan></text></g>
+<g class="l" style="animation-delay:1.51s"><text x="22" y="366"><tspan fill="#39d353" font-weight="bold">Testing</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">PHPUnit · Playwright · Jest</tspan></text></g>
+<g class="l" style="animation-delay:1.60s"><text x="22" y="408" fill="#58a6ff">── highlights ────────────────────────────</text></g>
+<g class="l" style="animation-delay:1.69s"><text x="22" y="429"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">Owning Laravel 5.8→13 / PHP 7.4→8.5 upgrade</tspan></text></g>
+<g class="l" style="animation-delay:1.78s"><text x="22" y="450"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">2FA/TOTP for the LMS · tests 62 → 238</tspan></text></g>
+<g class="l" style="animation-delay:1.87s"><text x="22" y="471"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">~1,600 → ~8 queries/view · 1.5 s → 17 ms</tspan></text></g>
+<g class="l" style="animation-delay:1.96s"><text x="22" y="492"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">Legacy refactor: −60% controller code</tspan></text></g>
+<g class="l" style="animation-delay:2.05s"><text x="22" y="513"><tspan fill="#39d353">▸ </tspan><tspan fill="#c9d1d9">2 ERPs shipped solo · prod on Docker</tspan></text></g>
+<g class="l" style="animation-delay:2.14s"><text x="22" y="555" fill="#58a6ff">── contact ───────────────────────────────</text></g>
+<g class="l" style="animation-delay:2.23s"><text x="22" y="576"><tspan fill="#39d353" font-weight="bold">Mail</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">kevinaguirre840@gmail.com</tspan></text></g>
+<g class="l" style="animation-delay:2.32s"><text x="22" y="597"><tspan fill="#39d353" font-weight="bold">LinkedIn</tspan><tspan fill="#6e7681">:</tspan><tspan x="114" fill="#c9d1d9">in/kevinaguirreg</tspan></text></g>
+<g class="l" style="animation-delay:2.41s"><rect x="22" y="622" width="22" height="12" rx="2" fill="#0e4429"/><rect x="48" y="622" width="22" height="12" rx="2" fill="#006d32"/><rect x="74" y="622" width="22" height="12" rx="2" fill="#26a641"/><rect x="100" y="622" width="22" height="12" rx="2" fill="#39d353"/><rect x="126" y="622" width="22" height="12" rx="2" fill="#69f0a0"/><rect x="152" y="622" width="22" height="12" rx="2" fill="#58a6ff"/><rect x="178" y="622" width="22" height="12" rx="2" fill="#d2a8ff"/><rect x="204" y="622" width="22" height="12" rx="2" fill="#c9d1d9"/></g>
+</svg>
